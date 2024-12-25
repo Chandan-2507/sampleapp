@@ -38,7 +38,7 @@
     <snapshotRepository>
         <id>snapshots</id>
         <name>ip-172-31-20-93-snapshots</name>
-        <url>http://18.234.236.77:8081/artifactory/libs-snapshot-local</url>
+        <url>http://18.234.236.77:8081/artifactory/libs-snapshot</url>
     </snapshotRepository>
 </distributionManagement>
 
